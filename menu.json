@@ -1,0 +1,31 @@
+{
+    "menu": [
+      {
+        "name": "Inicio",
+        "url": "index.html"
+      },
+      {
+        "name": "Productos",
+        "url": "productos.html",
+        "subMenu": [
+          {
+            "name": "Categoría 1",
+            "url": "categoria1.html"
+          },
+          {
+            "name": "Categoría 2",
+            "url": "categoria2.html"
+          },
+          {
+            "name": "Categoría 3",
+            "url": "categoria3.html"
+          }
+        ]
+      },
+      {
+        "name": "Contacto",
+        "url": "contact.html"
+      }
+    ]
+  }
+  
